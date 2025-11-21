@@ -16,4 +16,3 @@ Header/Üst Bar,Mobile-First Tasarım,"Dashboard'un sadece masaüstünde değil,
 Ortak Çalışma Grupları,Öğrencilerin belirli dersler veya konular için özel çalışma grupları oluşturabilmesi. Bu gruplarda not paylaşımı yapılabilir.,Arkadaşlarım / Yeni Bölüm: Gruplar
 Arkadaş Net Karşılaştırması (Gizli),"Öğrencinin izin verdiği arkadaşlarıyla anonimleştirilmiş net ortalamalarını karşılaştırması (Kişisel netler değil, ortalamalar).",Arkadaşlarım ve Deneme Analizi
 Not Paylaşım Platformu,Öğrencilerin kendilerinin oluşturduğu veya organize ettiği ders notlarını güvenli bir şekilde paylaşabilmesi.,Notlar & Ajanda
-

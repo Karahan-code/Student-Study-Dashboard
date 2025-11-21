@@ -38,17 +38,17 @@ Başarılar (Gamification): Çalışma hedeflerine ulaştıkça kazanılan dijit
 
 Teknolojiler:
 
-    Frontend:
+    Frontend:   React.js, Next.js
 
-    Styling: 
+    Styling:    CSS3, TalwindCSS
 
-    State Management:
+    Backend & DB:   Node.js, Mango.db
 
-    Backend & DB:
+    UI/UX Frameworks:  Chart.js
 
-    UI/UX: Figma, Figma AI
+    Design: Figma, Figma AI
 
-    Used AI: Gemini, ChatGPT
+    Used AI:    Gemini, ChatGPT
 
 
 ==========================================================================================================================
@@ -90,14 +90,14 @@ Achievements (Gamification): Digital badges awarded upon reaching specific study
 
 Technologies Used:
 
-    Frontend:
+    Frontend:   React.js, Next.js
 
-    Styling: 
+    Styling:    CSS3, TalwindCSS
 
-    State Management:
+    Backend & DB:   Node.js, Mango.db
 
-    Backend & DB:
+    UI/UX Frameworks:  Chart.js
 
-    UI/UX: Figma, Figma AI
+    Design: Figma, Figma AI
 
-    Used AI: Gemini, ChatGPT
+    Used AI:    Gemini, ChatGPT

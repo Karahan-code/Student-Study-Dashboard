@@ -1,0 +1,13 @@
+# Node.js Bağımlılıkları (Olmazsa olmaz)
+node_modules
+/server
+/server/node_modules
+
+# Gizlilik Dosyaları (Zorunlu)
+# Veritabanı şifreleri, API anahtarları vb. burada saklanır.
+.env
+.env.local
+
+# Vite/React Üretim Dosyaları (Production Build)
+# Canlıya alırken Vite'ın oluşturduğu nihai çıktıdır.
+/client/dist
