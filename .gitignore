@@ -1,6 +1,5 @@
 # Node.js Bağımlılıkları (Olmazsa olmaz)
 node_modules
-/server
 /server/node_modules
 
 # Gizlilik Dosyaları (Zorunlu)
